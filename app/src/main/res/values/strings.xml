@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Calendar</string>
+
+    <string-array name="days">
+
+        <item name="S">S</item>
+        <item name="M">M</item>
+        <item name="T">T</item>
+        <item name="W">W</item>
+        <item name="T">T</item>
+        <item name="F">F</item>
+        <item name="S">S</item>
+
+    </string-array>
+
+</resources>
